@@ -23,4 +23,8 @@ class Solver
       num.to_s
     end
   end
+
+  def reverse(string)
+    string.reverse
+  end
 end

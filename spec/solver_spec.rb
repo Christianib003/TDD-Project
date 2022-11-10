@@ -38,8 +38,8 @@ describe 'TDD unit tests fot Solver class methods' do
   end
   context 'test string reverse' do
     it 'should return the reverse of hello' do
-        string = @solution.reverse('hello')
-        expect(string).to eq('olleh')
+      string = @solution.reverse('hello')
+      expect(string).to eq('olleh')
     end
-end
+  end
 end
