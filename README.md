@@ -40,8 +40,7 @@
 👤 **Christian Iradukunda B.**
 
 - GitHub: [@githubhandle](https://github.com/Christianib003)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/christian-iradukunda/)
 
 👤 **Elijah Andre**
 
